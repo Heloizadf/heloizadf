@@ -12,5 +12,6 @@ Sou a **Heloiza**, estudante de **Ciência da Computação**, e este é o espaç
 ---
 
 ###  Vamos nos conectar?
-* **LinkedIn:** [[linkedin.com/in/seu-perfil](https://www.linkedin.com/in/seu-perfil/)](https://www.linkedin.com/in/heloiza-diniz-12921a319/)
-* **E-mail:** seu-email@exemplo.com
+* **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/seu-perfil/)](https://www.linkedin.com/in/heloiza-diniz-12921a319/)
+* **E-mail:** heloizadiniz58@gmail.com
+  
