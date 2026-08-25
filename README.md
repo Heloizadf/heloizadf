@@ -1,6 +1,6 @@
-Oiê!
-###**Sejam Bem-Vindos ao meu GitHub!****
-Sou a Heloiza, estudante de ciência da computação e aqui vai ser onde deixarei registrado todos os meus projetos ao longo da minha carrega! 
+👋 Oiê! Sejam bem-vindos ao meu GitHub!
+
+Sou a **Heloiza**, estudante de **Ciência da Computação**, e este é o espaço onde registro minha evolução, aprendizados e projetos ao longo da minha carreira na tecnologia.
 
 ### 🚀 Sobre mim
 * 🎓 Cursando **Ciência da Computação**
